@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-AdventureWorks",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "27d31473-2e02-4189-9151-9c7d2e31d11b",
+		"tenantId": "af02b516-2c7e-429a-a68b-b80ba00259cf"
+	}
+}

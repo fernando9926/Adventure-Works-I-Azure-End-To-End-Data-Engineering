@@ -1,0 +1,7 @@
+{
+	"name": "SHIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "SELF HOSTED INTEGRATION RUNTIME. USED TO CONECT SQL SERVER"
+	}
+}
